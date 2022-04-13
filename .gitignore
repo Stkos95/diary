@@ -1,0 +1,10 @@
+.env
+venv/
+.idea/
+Dockerfile
+__pycache__/
+new_one.py
+nutr.py
+test.py
+main.py
+googlesheets.py
